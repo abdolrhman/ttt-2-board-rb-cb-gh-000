@@ -1,2 +1,2 @@
 # Define the variable board below.
-board =[]
+board =["my","name","is","nasr","i","will","be","best","programmer"]
